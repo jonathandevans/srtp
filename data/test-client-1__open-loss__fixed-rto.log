@@ -1,0 +1,5 @@
+jde5@pc7-090-l -> ./test-client-1 pc7-086-l
+test-client-1
+send_open_req(): dropped packet
+srtp_open() : unexpected packet type
+srtp_open() failed for pc7-086-l

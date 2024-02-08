@@ -1,0 +1,48 @@
+jde5@pc7-086-l -> ./test-server-0
+test-server-0
+start() OK
+accept() : connected to 138.251.29.100:23147
+srtp_rx() : 1280 bytes (correct), v1=3211776 (correct), v2=3211776 (correct).
+srtp_tx() : 1280/1280 bytes sent
+start_time: 2024-04-01_13:48:26 (1711975706.850456s)
+(now): 2024-04-01_13:48:26 (1711975706.851271s)
+(duration): 0.000815s
+sd: 3
+port: 23147
+local: 0.0.0.0 23147
+remote: 138.251.29.100 23147
+state: 0 (closed)
+seq_tx: 2
+seq_rx: 3
+rtt: 62 us
+rto: 1000000 us
+open_req_rx: 1
+open_req_dup_rx: 0
+open_ack_rx: 0
+open_ack_dup_rx: 0
+open_req_tx: 0
+open_req_re_tx: 0
+open_ack_tx: 1
+open_ack_re_tx: 0
+data_req_rx: 1
+data_req_bytes_rx: 1280
+data_ack_rx: 1
+data_req_dup_rx: 0
+data_req_bytes_dup_rx: 0
+data_ack_dup_rx: 0
+data_req_tx: 1
+data_req_bytes_tx: 1280
+data_ack_tx: 1
+data_req_re_tx: 0
+data_req_bytes_re_tx: 0
+data_ack_re_tx: 0
+close_req_rx: 1
+close_req_dup_rx: 0
+close_ack_rx: 1
+close_ack_dup_rx: 0
+close_req_tx: 1
+close_req_re_tx: 0
+close_ack_tx: 1
+close_ack_re_tx: 0
+data mean rx_rate: 12.56 Mbps - 12564417 bps
+data mean tx_rate: 12.56 Mbps - 12564417 bps
